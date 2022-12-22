@@ -23,14 +23,14 @@
 <div>
 <ul>
 <li>Student </li>
-              <li>Self-Learner</li>
-             <li>Web Developer  </li>
-             <li>Programmer</li>
-            <li>Problem Solver</li>
-         </ul>
- </div>
+<li>Self-Learner</li>
+<li>Web Developer  </li>
+<li>Programmer</li>
+<li>Problem Solver</li>
+</ul>
+</div>
 
-       </td>
-     </tr>
-   </table>
-  </center>
+</td>
+</tr>
+</table>
+</center>
