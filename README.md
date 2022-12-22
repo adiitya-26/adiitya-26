@@ -1,10 +1,10 @@
 
 <center>
  
- <tablecellspacing="80">
+ <table cellspacing="80">
  <tr>
  <td>
- <img class="aditya" src="D:\Web Development\WebPractice\css\aditya.png" width="250px" alt="Aditya's Pic">
+ <img class="aditya" src="aditya.png" width="250px" alt="Aditya's Pic">
  </td>
 
 
