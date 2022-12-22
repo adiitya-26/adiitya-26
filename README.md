@@ -1,7 +1,7 @@
 
 <center>
  
- <>
+ <table cellspacing="80">
  <tr>
  <td>
  <img class="aditya" src="aditya.png" width="250px" alt="Aditya's Pic">
